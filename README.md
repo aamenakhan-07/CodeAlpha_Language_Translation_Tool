@@ -24,7 +24,7 @@ Installation and Setup
 
 1. Clone this repository:
    
-   "git clone YOUR_GITHUB_REPOSITORY_LINK"
+   "git clone https://github.com/aamenakhan-07/CodeAlpha_Language_Translation_Tool.git"
 
 2. Open the project folder.
 
