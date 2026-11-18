@@ -24,17 +24,17 @@ Installation and Setup
 
 1. Clone this repository:
    
-   "git clone https://github.com/aamenakhan-07/CodeAlpha_Language_Translation_Tool.git"
+   git clone https://github.com/aamenakhan-07/CodeAlpha_Language_Translation_Tool.git
 
 2. Open the project folder.
 
 3. Install the required libraries:
    
-   "pip install -r requirements.txt"
+   pip install -r requirements.txt
 
 4. Run the application:
    
-   "python app.py"
+   python app.py
 
 5. Open this address in your browser:
    
